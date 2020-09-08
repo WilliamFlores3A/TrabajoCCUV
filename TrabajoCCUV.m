@@ -1,3 +1,5 @@
+%   WILLIAM ANDRES FLORES CEDEÑO
+%   e1312576943@live.uleam.edu.ec
 function varargout = TrabajoCCUV(varargin)
 %TRABAJOCCUV M-file for TrabajoCCUV.fig
 %      TRABAJOCCUV, by itself, creates a new TRABAJOCCUV or raises the existing
